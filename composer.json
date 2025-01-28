@@ -22,8 +22,5 @@
     "support": {
         "source": "https://github.com/adianti/studio-forms"
     },
-    "require": {
-        "pablodalloglio/fpdf": "*"
-    },
     "type": "library"
 }
